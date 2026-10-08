@@ -24,4 +24,4 @@ All built by directing AI coding agents (Claude Code) 🤖.
 
 ---
 
-Thank you for visiting my GitHub! 📫
+Thank you for visiting my GitHub! Feel free to contact me at: **joaquinjacubowicz@gmail.com** 📫
