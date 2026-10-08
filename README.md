@@ -5,6 +5,8 @@
 - I build **my own music software**: audio-to-MIDI transcription, stem separation, synths and Ableton devices 🛠️.
 - I am currently getting into **AI safety** 🤖.
 
+Check out my **personal web page** [here](https://heiofdvk.github.io/) with all my projects.
+
 ---
 
 ### 🚀 Featured Work
